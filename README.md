@@ -1,8 +1,3 @@
-# Índice
-
-- [Sobre o Git](https://github.com/matheuscristian/starting-with-git/edit/master/README.md#sobre-o-git)
-- [Sobre o GitHub](https://github.com/matheuscristian/starting-with-git/edit/master/README.md#sobre-o-github)
-  - [Como começar um projeto no GitHub](https://github.com/matheuscristian/starting-with-git/edit/master/README.md#como-come%C3%A7ar-um-projeto-no-github)
 
 # Sobre o Git
 
